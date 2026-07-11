@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AniveshGupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AniveshGupta/AniveshGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @AniveshGupta
+- 👀 I'm interested in full-stack web development (MERN stack) and computer vision
+- 🌱 I'm currently learning advanced backend concepts, system design, and building production-ready full-stack applications
+- 💞️ I'm looking to collaborate on full-stack projects, open-source contributions, and web apps with real-world use cases
+- 📫 How to reach me: aniveshgupta11@gmail.com | [LinkedIn](https://www.linkedin.com/in/anivesh-gupta-2249842a7/?skipRedirect=true)
